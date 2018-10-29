@@ -14,6 +14,7 @@ namespace WorkflowCore.Sample02.Steps
 
         public override ExecutionResult Run(IStepExecutionContext context)
         {
+        	//HELLO TEST GIT2
             Console.WriteLine(Message);
             return ExecutionResult.Next();
         }
