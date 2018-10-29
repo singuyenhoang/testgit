@@ -11,6 +11,7 @@ namespace WorkflowCore.Sample02.Steps
     {
         public override ExecutionResult Run(IStepExecutionContext context)
         {
+        	//GOOD BY 696
             Console.WriteLine("Goodbye world");
             return ExecutionResult.Next();
         }
