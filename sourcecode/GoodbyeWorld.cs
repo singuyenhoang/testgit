@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using WorkflowCore.Interface;
 using WorkflowCore.Models;
 
-namespace WorkflowCore.Sample02.Steps
+namespace WorkflowCore.Sample02.Steps333
 {
     public class GoodbyeWorld : StepBody
     {
