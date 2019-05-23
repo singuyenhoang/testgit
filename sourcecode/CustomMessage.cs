@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using WorkflowCore.Interface;
 using WorkflowCore.Models;
 
-namespace WorkflowCore.Sample02.Steps
+namespace WorkflowCore.Sample02.Steps222
 {
     public class CustomMessage : StepBody
     {
